@@ -2,7 +2,7 @@
 
 ## What is JAMstack?
 
-**JAM** stands for JavaScript, API & Markup
+**JAM** stands for **J**avaScript, **A**PI & **M**arkup
 
 >A modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup
 
