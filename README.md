@@ -1,5 +1,7 @@
 # JAMstack
 
+>JAMstack is revolutionising the way we think about workflow by providing a simpler developer experience, better performance, lower cost and greater scalability.
+
 ## What is JAMstack?
 
 **JAM** stands for **J**avaScript, **A**PI & **M**arkup
