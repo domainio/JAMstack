@@ -1,7 +1,15 @@
 import React from 'react';
-import { Container } from 'theme-ui';
+import { Container, Heading, Button, Flex } from 'theme-ui';
 export default props => (
   <Container>
-    <h1>my site</h1>
+    <Flex sx={{ flexDirection: "column", padding: 3 }}>
+    <Heading as="h1">Extend your Skills</Heading>
+    <Button
+      sx={{ marginTop: 2 }}
+      onClick={() => {
+        alert("click");
+      }}
+    >Log In</Button>
+    </Flex>
   </Container>
 )
