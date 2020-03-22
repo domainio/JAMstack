@@ -23,3 +23,6 @@ Websites are served as static HTML files. These can be generated from source fil
 * **Less expensive** - Hosting of static files are cheap or even free
 * **Better developer experience** - Front end developers can focus on the front end, without being tied to a monolithic architecture. This usually means quicker and more focused development.
 * **Scalability** - If your product suddenly goes viral and has many active users, the CDN seamlessly compensates.
+
+## BEST PRACTICES
+
