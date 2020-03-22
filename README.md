@@ -6,13 +6,13 @@
 
 >A modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup
 
-### JavaScript
+1. ### JavaScript
 Dynamic functionalities are handled by JavaScript. There is no restriction on which framework or library you must use.
 
-### APIs
+2. ### APIs
 Server side operations are abstracted into reusable APIs and accessed over HTTPS with JavaScript. These can be third party services or your custom function.
 
-### Markup
+3. ### Markup
 Websites are served as static HTML files. These can be generated from source files, such as Markdown, using a Static Site Generator.
 
 ## JAMstack main benefits
