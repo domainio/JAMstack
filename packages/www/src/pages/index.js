@@ -13,8 +13,7 @@ const Root = (props) => {
         <Button
           sx={{ marginTop: 2 }}
           onClick={() => {
-            // netlifyIdentity.open();
-            alert("click");
+            netlifyIdentity.open();
           }}
         >Log In</Button>
       </Flex>
